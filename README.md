@@ -1,0 +1,2 @@
+# Day 1
+    starting the reading rhythm of the book and understanding the proposed teaching method, first example creating a deck, the way used is really cool, as I have always worked with data analysis, it is a different way of thinking in the area of ​​problem solving with Python.
